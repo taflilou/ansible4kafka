@@ -1,0 +1,2 @@
+[kafka_servers]
+kafkavm ansible_ssh_host=192.168.70.10 ansible_ssh_port=22 ansible_ssh_user='ubuntu' ansible_ssh_private_key_file='/home/taflilou/Desktop/mylearning/cassandra/.vagrant/machines/cassandravm/virtualbox/private_key'
